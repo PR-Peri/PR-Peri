@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PR-Peri
-- 👀 I’m interested in cybersecurity and data science
+- 👀 I’m interested in application development, cybersecurity and data science
 - 🌱 I’m currently a final year student 
 - 💞️ I’m looking to collaborate on android/ios applications
 - 📫 How to reach me ? peri_2704@hotmail.my
