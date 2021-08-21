@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PR-Peri
+- 👋 Hi, I’m @PR-Peri // Peroush // Peri // PR
 - 👀 I’m interested in Application development [iOS], CyberSec [Pen-Test] and Machine Learning
 - 🌱 I’m currently a final year student 
 - 💞️ I’m looking to collaborate on iOS applications projects
