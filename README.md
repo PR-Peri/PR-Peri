@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PR-Peri // Peroush // Peri // PR
-- 👀 I’m interested in Application development [iOS], CyberSec [Pen-Test] and Machine Learning
+- 👋 Hello World, I’m @PR-Peri // Peroush // Peri // PR
+- 👀 I’m interested in Swift Development [iOS], CyberSec [Pen-Test] and any Machine Learning related tasks
 - 🌱 I’m currently a final year student 
-- 💞️ I’m looking to collaborate on iOS applications projects
+- 💞️ I’m looking to collaborate on Machine Learning projects and Swift Development
 - 📫 How to reach me ? peri_2704@hotmail.my
 
 <!---
