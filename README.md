@@ -27,3 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-peri&show_icons=true&locale=en&layout=compact" alt="pr-peri" /></p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="peri-r-3144b3102" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/peri-r-3144b3102?trk=profile-badge">Perivitta Rajendran</a></div>
+              
