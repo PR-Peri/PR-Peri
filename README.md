@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 😈, I'm Periii</h1>
+<h3 align="center">Hey There, I'm Periii</h3>
 <img align="justify" alt="Coding" width="800" height="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
 
@@ -10,7 +10,6 @@
 
 
 - 📫 How to reach me **peri_2704@hotmail.my**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://my.linkedin.com/in/perivitta-rajendran-3144b3102) 
@@ -25,7 +24,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PR-Peri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
