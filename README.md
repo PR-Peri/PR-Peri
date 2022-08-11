@@ -1,15 +1,11 @@
 <h3 align="center">Hey There, I'm Periii</h3>
 <img align="justify" alt="Coding" width="800" height="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=0e75b6&style=flat" alt="pr-peri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr-peri" alt="pr-peri" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-- 📫 How to reach me **peri_2704@hotmail.my**
+- 📫 How to reach out to me **peri_2704@hotmail.my**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://my.linkedin.com/in/perivitta-rajendran-3144b3102) 
@@ -22,12 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PR-Peri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PR-Peri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PR-Peri&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in)
 
               
