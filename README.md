@@ -1,4 +1,4 @@
-<h3 align="center">Hey There, I'm Periii</h3>
+<h3 align="center">Hey There, I'm Perivitta Rajendran</h3>
 <img align="justify" alt="Coding" width="800" height="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=0e75b6&style=flat" alt="pr-peri" /> </p>
