@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" height="250" src="computer.gif" >
 <img align="left" alt="Coding" width="400" height="250" src="git.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
@@ -23,7 +23,7 @@
 
 <img align="left" alt="stat1" width="380" height="330" src="https://github-readme-stats.vercel.app/api?username=PR-Peri&theme=radical&hide_border=true&include_all_commits=true&count_private=true"> 
 <img align="right" alt="stat2" width="380" height="330" src="https://github-readme-streak-stats.herokuapp.com/?user=PR-Peri&theme=radical&hide_border=true">
-<img align="center" alt="stat3" width="450" height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<center><img align="center" alt="stat3" width="450" height="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"></center>
 
 
 
