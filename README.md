@@ -1,12 +1,12 @@
 <h3 align="center">Hey There, I'm Perivitta Rajendran</h3>
-<img align="justify" alt="Coding" width="800" height="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=0e75b6&style=flat" alt="pr-peri" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br>
+<img align="right" alt="Coding" width="550" height="250" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" >
+<img align="left" alt="Coding" width="400" height="250" src="git.gif">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=0e75b6&style=flat" alt="pr-peri" /> </p>
+<p align="justify"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 - 📫 How to reach out to me **peri_2704@hotmail.my**
-
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://my.linkedin.com/in/perivitta-rajendran-3144b3102) 
 
