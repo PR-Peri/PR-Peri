@@ -1,9 +1,11 @@
 
-<h3 align="center">Hey There, I'm Perivitta Rajendran</h3>
+<img align="right" alt="Coding" src="title.gif" >
+
 <br>
 <img align="right" alt="Coding" width="400" height="250" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" >
 <img align="left" alt="Coding" width="400" height="250" src="git.gif">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
