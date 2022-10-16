@@ -23,7 +23,5 @@
 
 <img align="left" alt="stat1" width="380" height="330" src="https://github-readme-stats.vercel.app/api?username=PR-Peri&theme=radical&hide_border=true&include_all_commits=true&count_private=true"> 
 <img align="right" alt="stat2" width="380" height="330" src="https://github-readme-streak-stats.herokuapp.com/?user=PR-Peri&theme=radical&hide_border=true">
-<center><img align="center" alt="stat3" width="450" height="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"></center>
-
 
 
