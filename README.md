@@ -1,6 +1,6 @@
 <h3 align="center">Hey There, I'm Perivitta Rajendran</h3>
 <br>
-<img align="right" alt="Coding" width="550" height="250" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" >
+<img align="right" alt="Coding" width="400" height="250" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" >
 <img align="left" alt="Coding" width="400" height="250" src="git.gif">
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=0e75b6&style=flat" alt="pr-peri" /> </p>
