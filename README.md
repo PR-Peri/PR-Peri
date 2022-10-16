@@ -19,8 +19,8 @@
 <img align="left" alt="stat1" width="50" height="50" src="https://i.pinimg.com/originals/29/54/3f/29543fd962c81b05eb91d373c8f4889b.jpg" >
 <h1 style="font-family:verdana;"> Github Stats </h1>
 
-<img align="left" alt="stat1" width="350" height="300" src="https://github-readme-stats.vercel.app/api?username=PR-Peri&theme=radical&hide_border=true&include_all_commits=true&count_private=true"> 
-<img align="right" alt="stat2" width="350" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=PR-Peri&theme=radical&hide_border=true">
+<img align="left" alt="stat1" width="380" height="330" src="https://github-readme-stats.vercel.app/api?username=PR-Peri&theme=radical&hide_border=true&include_all_commits=true&count_private=true"> 
+<img align="right" alt="stat2" width="380" height="330" src="https://github-readme-streak-stats.herokuapp.com/?user=PR-Peri&theme=radical&hide_border=true">
 <img align="center" alt="stat3" width="450" height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 
