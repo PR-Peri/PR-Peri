@@ -6,7 +6,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in)
-<p align="justify"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
 
 
 <img align="left" alt="stat1" width="50" height="50" src="https://user-images.githubusercontent.com/46223444/196027559-ef4ca00e-78b0-4996-8b4d-d9eecdc6c3e0.png" >
