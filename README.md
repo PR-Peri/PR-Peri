@@ -1,4 +1,3 @@
-
 <img align="right" alt="Coding" src="title.gif" >
 
 <br>
