@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" src="title.gif" >
 
 <br>
-<img align="right" alt="Coding" width="400" height="850" src="computer.gif" >
+<img align="center" alt="Coding" width="400" height="850" src="computer.gif" >
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
