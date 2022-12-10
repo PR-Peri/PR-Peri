@@ -1,7 +1,8 @@
 <img align="right" alt="Coding" src="title.gif" >
 
 <br>
-<img align="center" alt="Coding" width="400" height="850" src="computer.gif" >
+<img align="center" alt="Coding" width="400" height="250" src="computer.gif" >
+<!-- <img align="left" alt="Coding" width="400" height="250" src="git.gif"> -->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
