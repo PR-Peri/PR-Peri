@@ -1,4 +1,4 @@
-<img align="center" width="800" height="650" alt="Coding" src="title.gif" >
+<img align="center" width="700" height="550" alt="Coding" src="title.gif" >
 
 <!-- <img align="left" alt="Coding" width="400" height="250" src="git.gif">
 <img align="right" alt="Coding" width="400" height="250" src="computer.gif" > -->
