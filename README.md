@@ -1,10 +1,9 @@
-<img align="right" alt="Coding" src="title.gif" >
+<img align="center" width="800" height="650" alt="Coding" src="title.gif" >
 
-<br>
 <!-- <img align="left" alt="Coding" width="400" height="250" src="git.gif">
 <img align="right" alt="Coding" width="400" height="250" src="computer.gif" > -->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
