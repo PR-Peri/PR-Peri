@@ -2,7 +2,11 @@
 
 <!-- <img align="left" alt="Coding" width="350" height="200" src="git.gif">
 <img align="right" alt="Coding" width="350" height="200" src="computer.gif" > -->
-[![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- [![](https://visitcount.itsvg.in/api?id=PR-Peri&icon=8&color=0)](https://visitcount.itsvg.in) -->
+
+<!-- [![Profile Visits](https://visitor-count-b8lb.vercel.app/api/PR-Peri)](https://visitcount.itsvg.in) -->
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
 
 
