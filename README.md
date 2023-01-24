@@ -11,7 +11,12 @@
 
 
 <img align="left" alt="stat1" width="50" height="50" src="https://user-images.githubusercontent.com/46223444/196027559-ef4ca00e-78b0-4996-8b4d-d9eecdc6c3e0.png" >
-<h1 style="font-family:verdana;"> peri_2704@hotmail.my </h1>
+<h1 style="font-family:verdana;"> Contact Me </h1>
+<h4> E-mail : peri_2704@hotmail.my </h4>
+<p><h4> LinkedIn Profile :  <a
+                        href="https://www.linkedin.com/in/peri-r-3144b3102/"
+                        style="color:goldenrod"> Perivitta Rajendran </a> </h4></p>
+
 
 <img align="left" alt="stat1" width="50" height="50" src="https://img.myloview.com.br/posters/glowing-neon-line-scissors-cutting-a-credit-card-icon-isolated-on-black-background-online-payment-cash-withdrawal-financial-operations-shopping-sign-colorful-outline-concept-vector-400-263397388.jpg" > <h1 style="font-family:verdana;"> Tech Stack </h1>
 
