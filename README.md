@@ -23,5 +23,6 @@
 
 <p float="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PR-Peri&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100" style="width:45%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PR-Peri&theme=radical&hide_border=true" width="100" style="width:45%"/> 
 </p>
