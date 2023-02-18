@@ -9,13 +9,15 @@
 
 <img align="left" alt="stat1" width="50" height="50" src="https://user-images.githubusercontent.com/46223444/196027559-ef4ca00e-78b0-4996-8b4d-d9eecdc6c3e0.png" >
 <h1 style="font-family:verdana;"> Contact Me </h1>
-<h4> E-mail : peri_2704@hotmail.my </h4>
-<p><h4> LinkedIn Profile :  <a
-                        href="https://www.linkedin.com/in/peri-r-3144b3102/"
-                        style="color:goldenrod"> Perivitta Rajendran </a> </h4></p>
 
+<img align="left" alt="stat1" width="40" height="40" src="https://user-images.githubusercontent.com/46223444/219856897-2863519c-4714-433d-b3f9-11aefccab406.png" > <h4 style="font-family:verdana;" > </h4><a
+                        style="color:goldenrod"> peri_2704@hotmail.my </a>
+
+<img align="left" alt="stat1" width="40" height="40" src="https://user-images.githubusercontent.com/46223444/219856716-6ff11fad-840d-48af-b9a6-c3e1aefae4e2.png" > <h4 style="font-family:verdana;" > </h4><a
+                        href="https://www.linkedin.com/in/peri-r-3144b3102/"
+                        style="color:goldenrod"> LinkedIn Profile </a>
                        
-<img align="left" alt="stat1" width="35" height="35" src="logo.png" > <h4 href = "https://pr-peri.github.io" style="font-family:verdana;" > </h4><a
+<img align="left" alt="stat1" width="40" height="40" src="logo.png" > <h4 href = "https://pr-peri.github.io" style="font-family:verdana;" > </h4><a
                         href="https://pr-peri.github.io"
                         style="color:goldenrod"> Personal Website </a>
 
