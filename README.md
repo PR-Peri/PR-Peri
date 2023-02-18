@@ -15,7 +15,9 @@
                         style="color:goldenrod"> Perivitta Rajendran </a> </h4></p>
 
                        
-<img align="left" alt="stat1" width="35" height="35" src="logo.png" > <h4 href = "https://pr-peri.github.io" style="font-family:verdana;" >  Personal Blog </h4>
+<img align="left" alt="stat1" width="35" height="35" src="logo.png" > <h4 href = "https://pr-peri.github.io" style="font-family:verdana;" > </h4><a
+                        href="https://pr-peri.github.io"
+                        style="color:goldenrod"> Personal Website </a>
 
 <br>
 
