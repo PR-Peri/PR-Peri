@@ -1,3 +1,5 @@
+!pip install svgwrite
+
 import svgwrite
 
 def generate_snake_svg():
