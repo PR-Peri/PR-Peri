@@ -127,5 +127,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pr-peri/pr-peri/output/snake.svg" alt="Snake animation"  align="center"/>
+<div style="display: flex; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/pr-peri/pr-peri/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</div>
 
