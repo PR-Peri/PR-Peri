@@ -130,8 +130,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PR-Peri&theme=radical&hide_border=true" width="100" style="width:45%"/> 
 </p>
 
+<p align="center">𝑺𝒕𝒓𝒂𝒑 𝒊𝒏, 𝒉𝒐𝒍𝒅 𝒚𝒐𝒖𝒓 𝒃𝒓𝒆𝒂𝒕𝒉, 𝒂𝒏𝒅 𝒑𝒓𝒆𝒑𝒂𝒓𝒆 𝒕𝒐 𝒘𝒊𝒕𝒏𝒆𝒔𝒔 𝒕𝒉𝒆 𝒎𝒆𝒔𝒎𝒆𝒓𝒊𝒛𝒊𝒏𝒈 𝒕𝒘𝒊𝒔𝒕𝒔 𝒂𝒏𝒅 𝒕𝒖𝒓𝒏𝒔 𝒐𝒇 𝒕𝒉𝒊𝒔 𝒕𝒉𝒓𝒊𝒍𝒍𝒊𝒏𝒈 𝒔𝒆𝒓𝒑𝒆𝒏𝒕 𝒂𝒅𝒗𝒆𝒏𝒕𝒖𝒓𝒆. 𝑻𝒉𝒆 𝒂𝒏𝒕𝒊𝒄𝒊𝒑𝒂𝒕𝒊𝒐𝒏 𝒃𝒖𝒊𝒍𝒅𝒔—𝒘𝒂𝒊𝒕 𝒂𝒏𝒅 𝒘𝒂𝒕𝒄𝒉 𝒂𝒔 𝒕𝒉𝒆 𝒔𝒏𝒂𝒌𝒆 𝒔𝒍𝒊𝒕𝒉𝒆𝒓𝒔 𝒊𝒕𝒔 𝒘𝒂𝒚 𝒕𝒐 𝒗𝒊𝒄𝒕𝒐𝒓𝒚! 
+  <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3093_HjgESrckdGU7zYxTAYeXKeGd17abTuBS.gif" width="30" />
+</p>
 <br clear="both">
-
 <div style="display: flex; justify-content: center;">
   <picture style="width: 100%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
