@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
 
+<p align="center"> 𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓜𝓛 𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻 𝓭𝓮𝓭𝓲𝓬𝓪𝓽𝓮𝓭 𝓽𝓸 𝓵𝓮𝓿𝓮𝓻𝓪𝓰𝓲𝓷𝓰 𝓶𝓪𝓬𝓱𝓲𝓷𝓮 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓪𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼 𝓪𝓷𝓭 𝓭𝓪𝓽𝓪 𝓪𝓷𝓪𝓵𝔂𝓼𝓲𝓼 𝓽𝓸 𝓼𝓸𝓵𝓿𝓮 𝓬𝓸𝓶𝓹𝓵𝓮𝔁 𝓹𝓻𝓸𝓫𝓵𝓮𝓶𝓼 𝓪𝓷𝓭 𝓭𝓻𝓲𝓿𝓮 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓸𝓷. ✌ </p>
+
 <img align="left" alt="stat1" width="50" height="50" src="https://user-images.githubusercontent.com/46223444/196027559-ef4ca00e-78b0-4996-8b4d-d9eecdc6c3e0.png" >
 <h1 style="font-family:verdana;"> Contact Me </h1>
 
