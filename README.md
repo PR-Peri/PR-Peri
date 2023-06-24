@@ -133,6 +133,10 @@
 <br clear="both">
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/pr-peri/pr-peri/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <picture style="width: 100%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;" >
+  </picture>
 </div>
 
