@@ -1,4 +1,4 @@
-!pip install svgwrite
+pip install svgwrite
 
 import svgwrite
 
