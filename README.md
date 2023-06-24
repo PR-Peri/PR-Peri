@@ -115,6 +115,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" alt="arduino logo"  />
 </div>
 
+<br>
 <img align="left" alt="stat1" width="50" height="50" src="https://i.pinimg.com/originals/29/54/3f/29543fd962c81b05eb91d373c8f4889b.jpg" >
 <h1 style="font-family:verdana;"> Github Stats  </h1>
 
