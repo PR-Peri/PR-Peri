@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
 </a>
 <a href="https://github.io/pr-peri" target="_blank">
-  <img src="website-logo.png" height="30" alt="PR's Website" />
+  <img src="website-logo.png" height="30" width="115" alt="PR's Website" />
 </a>
 </div>
 
