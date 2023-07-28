@@ -1,4 +1,4 @@
-<h4 align="center">𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓜𝓛 𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻 𝓭𝓮𝓭𝓲𝓬𝓪𝓽𝓮𝓭 𝓽𝓸 𝓵𝓮𝓿𝓮𝓻𝓪𝓰𝓲𝓷𝓰 𝓶𝓪𝓬𝓱𝓲𝓷𝓮 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓪𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼 𝓪𝓷𝓭 𝓭𝓪𝓽𝓪 𝓪𝓷𝓪𝓵𝔂𝓼𝓲𝓼 𝓽𝓸 𝓼𝓸𝓵𝓿𝓮 𝓬𝓸𝓶𝓹𝓵𝓮𝔁 𝓹𝓻𝓸𝓫𝓵𝓮𝓶𝓼 𝓪𝓷𝓭 𝓭𝓻𝓲𝓿𝓮 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓸𝓷. 
+<h4 align="center">𝓐 𝓽𝓮𝓬𝓱 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓸𝓷 𝓪 𝓺𝓾𝓮𝓼𝓽 𝓯𝓸𝓻 𝓬𝓸𝓷𝓽𝓲𝓷𝓾𝓸𝓾𝓼 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓪𝓷𝓭 𝓮𝔁𝓹𝓵𝓸𝓻𝓪𝓽𝓲𝓸𝓷 𝓲𝓷 𝓽𝓱𝓮 𝓮𝓿𝓮𝓻-𝓮𝓿𝓸𝓵𝓿𝓲𝓷𝓰 𝔀𝓸𝓻𝓵𝓭 𝓸𝓯 𝓲𝓷𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓽𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝔂. 
   <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2406_cjuRwyoxcQAx9zTZ0XClM3a1FNx9uYPV.gif" width="30" />
   <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2395_PwTW42SsR2IeSmL5oXnjWONYiAZFgHSB.gif" width="30" />
 </h4>
