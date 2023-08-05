@@ -16,6 +16,14 @@
 <a href="https://pr-peri.github.io/" target="_blank">
   <img src="website-logo.png" height="30" width="115" alt="PR's Website" />
 </a>
+
+<a href="https://app.hackthebox.com/profile/222612" target="_blank">
+    <img src="https://github.com/PR-Peri/PR-Peri/assets/46223444/256ed4aa-0ae4-427b-855b-58ccb5bbbf2a" 
+         height="30" 
+         width="115" 
+         alt="HTB" style="border: 12px solid green;"/>
+</a>
+
 </div>
 
 <div align="center">
