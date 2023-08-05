@@ -18,10 +18,7 @@
 </a>
 
 <a href="https://app.hackthebox.com/profile/222612" target="_blank">
-    <img src="https://github.com/PR-Peri/PR-Peri/assets/46223444/256ed4aa-0ae4-427b-855b-58ccb5bbbf2a" 
-         height="30" 
-         width="115" 
-         alt="HTB" style="border: 12px solid green;"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46223444/258570393-256ed4aa-0ae4-427b-855b-58ccb5bbbf2a.png" height="30" width="115" alt="HTB" />
 </a>
 
 </div>
