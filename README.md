@@ -142,3 +142,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;" >
   </picture>
 </div>
+
+[![An image of @prperi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prperi)](https://holopin.io/@prperi)
+
