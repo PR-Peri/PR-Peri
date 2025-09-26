@@ -23,9 +23,8 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=94e3fe&style=plastic" alt="pr-peri" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pr-peri&label=Profile%20views&color=caf0fe&style=flat" alt="pr-peri" /> </p>
+
 
 <img align="right" width="50" height="50" src="original.gif"/>
 
